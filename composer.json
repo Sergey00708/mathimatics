@@ -1,0 +1,19 @@
+{
+    "name": "sergey/mathimatics",
+    "description": "Test packege",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mathimatics\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergey",
+            "email": "Fenix00708@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
